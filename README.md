@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Mustafa Farid
+- 👀 I’m interested in Data Science, AI/ML engineering
+- 🌱 I’m currently learning Data Science
+- 💞️ I’m looking to collaborate on Data Science
+- 📫 Reach me through my email (30395@students.riphah.edu.pk
